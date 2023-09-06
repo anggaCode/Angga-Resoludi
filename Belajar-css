@@ -1,0 +1,29 @@
+Progres Belajar Css:
+- css: cascading style shet
+- css selector : menggunakan kelas dan id, .untuk-kelas #untuk-id
+- background : mengatur latar belakang
+- Display : untuk mengatur lebar dan tinggi dari elemen. ada beberapa elemen yang harus di ubah display nya bar bisa atur lebar dan tinggi.
+- display-flex : membuat elemen tersebut menjadi flexibel, kemudian kita bisa atur posisi dari content
+- overflow: membuat supaya conten yang melebihi wadah tidak terlihat dengan value none
+- float: merubah posisi dari elemen menjadi ke kiri atau ke kanan
+- pseudo-class: memberikan efek kepada elemen. hover, active, visited, last-child, first-child, nth-child(2n), before, after
+- position : relative-> naik satu dimensi tidak mempengaruhi elemen yg lain kemudian biasa atur posisi untuk top, right, left, buttom
+  absolut -> naik satu dimensi namun mempengaruhi elemen lain sehingga elemen di bawahnya akan naik mengambil posisinya. dapat mengatur top, left, buttom, right berdasarkan parent
+  fixed -> membuat elemen enjadi posisi fix tidak bergerak meskipun di scroll namun kita harus merubah z-index supaya ttp berada di atas elemen yang lain
+- z-index : merubah supaya posisi suatu elemen manjadi di atas elemen yg lain tidak tertimpa.
+- margin : mengatur jarak antar elemen atau memberikan space di sekitar elemen
+- padding : memberikan space antara conten dengan border
+- border : batas dari suatu elemen
+- conten : isi dari elemen tersebut
+- border-radius : membuat border menjadi rounded
+- box-shadow : sisiX, sisiY, blur, color : 5px 5px 10px rgba(9, 100, 219, 0.75),
+- filter : memberikan filter berupa grayscale(angka), blur(px), brightness(%), contrast(40%), saturate(150%), sepia(100%)
+             hue-rotate(100deg), invert(80%)
+- font-face : memasukan jenis font ke file projek
+- linear-gradient : memberikan warna gradasi secara linear
+- radial-gradient : memberikan warna gradasi secara radial
+- opacity : memberikan transparansi ke suatu elemen
+- text-shadow : memberikan bayangan ke text : 5px 5px 5px greenyellow
+- transform : merubah bentuk elemen: skew(-25deg), scale(1.5, 1.5) rotate(45deg), translateX(20px)
+- transition : memberikan efek bergerak atau animasi yang memiliki keadaan awal dan akhir : 3s ease, ease-in, ease-out, ease-in-out, linear, 3s cubic-bezier(0,-0.56, 0.58, 1.41)
+- animsi :membuat animasi perbuhan untu diterapkan pada elemen
