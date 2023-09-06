@@ -1,0 +1,6 @@
+My Resolusi
+- harus konsisten belar tiap hari at least 4 jam
+- belajar html, css, javascript untuk frontend
+- belajar nextjs, react, dan tailwind
+- belajar nodejs sebagai server side
+- belajar API
